@@ -24,8 +24,9 @@ label {
     padding-bottom: 30px;
     color: #a10b0b;
     text-align: center;
-    background-color:rgb(255, 255, 255);
+    background-color:rgb(24, 24, 24);
     width: 800px;
+    margin: 0 auto;
 }
 .main {
     height: 500px;
