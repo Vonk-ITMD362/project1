@@ -2,7 +2,7 @@ html {
     height: 100%;
 }
 body {
-    background-color: #B3995B;
+    background-color: #b3b1ad;
     background-image: url("../image/background.png");
     background-position: center;
     background-repeat: no-repeat;
@@ -62,7 +62,7 @@ label {
     outline: none;
 }
 ::placeholder { 
-    color: rgb(209, 186, 224);
+    color: rgb(184, 109, 109);
     opacity: 1;
 }
 .emaildiv {
@@ -76,7 +76,7 @@ label {
 }
 .button {
     color: rgb(209, 186, 224);
-    background-color: #5f0859;
+    background-color: #6e0101;
     border: none;
     height: 50px;
     width: 145px;
@@ -84,8 +84,8 @@ label {
     font-size: 20px;
 }
 .button:hover {
-    color: #5f0859;
-    background-color: rgb(209, 186, 224);
+    color: #a50d0d;
+    background-color: rgb(235, 171, 171);
 }
 .bttncenter {
     width: 100%;
