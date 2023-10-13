@@ -22,8 +22,9 @@ label {
     font-size: 35px;
     font-family: 'Raleway', Arial;
     padding-bottom: 30px;
-    color: #FFEFC9;
+    color: #a10b0b;
     text-align: center;
+    background-color:rgb(255, 255, 255)
 }
 .main {
     height: 500px;
@@ -75,7 +76,7 @@ label {
     padding-bottom: 10px;
 }
 .button {
-    color: rgb(209, 186, 224);
+    color: rgb(163, 90, 85);
     background-color: #6e0101;
     border: none;
     height: 50px;
