@@ -119,10 +119,27 @@ label {
     bottom: 5%;
     text-align: center;
 }
+
+@media screen and (min-width: 800px) {
+    html {
+        height: 100%;
+        overflow-x: hidden;
+        overflow-y: auto;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    html {
+        height: 100%;
+        overflow-x: hidden;
+        overflow-y: auto;
+    }
+}
+
 @media screen and (max-width: 600px) {
     .header {
         font-size: 25px;
-        font-family: 'Raleway', sans-serif;
+        font-family: 'Raleway', Arial;
         padding-bottom: 25px;
         color: #FFEFC9;
     }
@@ -151,18 +168,3 @@ label {
     }
 }
 
-@media screen and (min-width: 800px) {
-    html {
-        height: 100%;
-        overflow-x: hidden;
-        overflow-y: auto;
-    }
-}
-
-@media screen and (min-width: 1200px) {
-    html {
-        height: 100%;
-        overflow-x: hidden;
-        overflow-y: auto;
-    }
-}
