@@ -72,12 +72,15 @@ label {
     opacity: 1;
 }
 .emaildiv {
+    background-color:rgb(24, 24, 24);
     padding-bottom: 30px;
 }
 .userdiv {
+    background-color:rgb(24, 24, 24);
     padding-bottom: 30px;
 }
 .passdiv {
+    background-color:rgb(24, 24, 24);
     padding-bottom: 30px;
 }
 .button {
