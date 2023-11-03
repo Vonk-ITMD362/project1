@@ -72,22 +72,23 @@ label {
     opacity: 1;
 }
 .emaildiv {
-    padding-bottom: 10px;
+    padding-bottom: 30px;
 }
 .userdiv {
-    padding-bottom: 10px;
+    padding-bottom: 30px;
 }
 .passdiv {
-    padding-bottom: 10px;
+    padding-bottom: 30px;
 }
 .button {
-    color: rgb(163, 90, 85);
-    background-color: #6e0101;
+    color: rgb(255, 255, 255);
+    background-color: #000000;
     border: none;
     height: 50px;
     width: 145px;
     border-radius: 3px;
     font-size: 20px;
+    border-color: #a50d0d;
 }
 .button:hover {
     color: #a50d0d;
