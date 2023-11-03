@@ -27,6 +27,7 @@ label {
     background-color:rgb(24, 24, 24);
     width: 800px;
     margin: 0 auto;
+    border-radius: 3px;
 }
 .main {
     height: 500px;
@@ -75,14 +76,20 @@ label {
     opacity: 1;
 }
 .emaildiv {
+    text-align: center;
+    border-radius: 3px;
     background-color:rgb(24, 24, 24);
     padding-bottom: 30px;
 }
 .userdiv {
+    text-align: center;
+    border-radius: 3px;
     background-color:rgb(24, 24, 24);
     padding-bottom: 30px;
 }
 .passdiv {
+    text-align: center;
+    border-radius: 3px;
     background-color:rgb(24, 24, 24);
     padding-bottom: 30px;
 }
